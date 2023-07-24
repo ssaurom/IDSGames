@@ -87,9 +87,9 @@ M.L. Campeones 1080 MultiAudio
 M.L. Campeones 720
 90beb42e9e276854348bc91a9ff3c3e46c617495
 M.L. Campeones 2 1080
-dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+dfc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 M.L. Campeones 2 720
-2d584c7335ff44f97c3cf64947892ef30fde715c
+6753492c1908274c268a1b28e2a054a0ff8f86f9
 M.L. Campeones 3 1080
 ecf4ec41200785812c140e3d1050b412f1519fa7
 M.L. Campeones 3 720
