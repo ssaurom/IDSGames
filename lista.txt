@@ -175,7 +175,3 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros" tvg-id="BARÇA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Otros" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 M+ HD 1080  864f
-http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="Otros" tvg-id="SETANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" ,SETANTA SPORTS 1080  7206
-http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
